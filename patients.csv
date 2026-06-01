@@ -1,0 +1,19 @@
+patient_id,patient_name,gender,age,city
+P001,Ahmed Raza,Male,67,Karachi
+P002,Fatima Noor,Female,58,Hyderabad
+P003,Ali Hassan,Male,45,Sukkur
+P004,Sana Khan,Female,33,Karachi
+P005,Bilal Sheikh,Male,72,Larkana
+P006,Hina Malik,Female,61,Karachi
+P007,Usman Qureshi,Male,29,Hyderabad
+P008,Ayesha Siddiqui,Female,50,Sukkur
+P009,Imran Ali,Male,64,Karachi
+P010,Zainab Baloch,Female,39,Nawabshah
+P011,Hamza Farooq,Male,55,Karachi
+P012,Mehwish Tariq,Female,47,Hyderabad
+P013,Danish Iqbal,Male,70,Sukkur
+P014,Rabia Shaikh,Female,62,Karachi
+P015,Salman Memon,Male,41,Larkana
+P016,Nadia Hussain,Female,36,Karachi
+P017,Tariq Jamali,Male,59,Hyderabad
+P018,Komal Abbasi,Female,27,Sukkur
